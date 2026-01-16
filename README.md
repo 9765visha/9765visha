@@ -45,7 +45,8 @@ I enjoy building clean UIs and continuously learning new technologies through ha
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=9765visha&theme=dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=9765visha&theme=github-dark&hide_border=true)
+
 
 
 
