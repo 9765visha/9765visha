@@ -45,11 +45,9 @@ I enjoy building clean UIs and continuously learning new technologies through ha
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9765visha&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=9765visha&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=9765visha&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9765visha&layout=compact&theme=dark&hide_border=true)
 
 ---
 
